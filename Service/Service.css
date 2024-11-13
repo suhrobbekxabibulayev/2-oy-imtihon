@@ -11,7 +11,7 @@ html{
 body{
     font-family: 'Poppins';
     width: 1600;
-    height: 5726px;
+    height: 4726px;
 }
 .header{
     margin-left: auto;
@@ -19,6 +19,20 @@ body{
     width: 1600px;
     height: 80px;
     background-color:#232536;
+}
+.jpg__ul{
+    list-style: none;
+    line-height: 36px;
+}
+.ul__a{
+    text-decoration: none;
+    color: rgba(35, 37, 54, 1);
+    font-weight: 600;
+    font-size: 24px;
+    margin-top: 16px;
+}
+.a__li{
+    margin-top: 12px;
 }
 .header-logo{
     width: 122px;
@@ -52,7 +66,7 @@ body{
 .header-hr{
     width: 48px;
     height: 0px;
-    margin-left: 830px;
+    margin-left: 840px;
     gap: 0px;
     border: 3px 0px 0px 0px;
     opacity: 0px;
@@ -186,7 +200,7 @@ p{
     width: 1278px;
     height: 416px;
     background-color:#fff;
-    margin-top: 1600px;
+    margin-top: 1100px;
 }
 .Bottom-h1{
     margin-top: 32px;
@@ -257,21 +271,24 @@ strong{
 }
 .header-section{
     width: 1600px;
-    height: 898px;
-    background-color: #232536;
+    height: 674px;
+    background-color: rgba(255, 230, 210, 1);
 }
 .tortburchak{
     width: 24px;
     height: 24px;
 }
 .Transform{
-    color: #fff;
+    color: rgba(35, 37, 54, 1);
     font-size: 58px;
     line-height: 68px;
     font-weight: 600;
 }
+.form__p{
+    color: rgba(35, 37, 54, 1);
+}
 .the{
-    color: #ffffff;
+    color: rgba(35, 37, 54, 1);
     opacity: 60%;
     font-size: 16px;
     font-weight: 300;
@@ -295,20 +312,24 @@ strong{
 }
 .header-img-button{
     display: flex;
+    align-items: center;
+    gap: 251px;
 }
 .form{
-    margin-top: 152px;
+    margin-top: 142px;
     margin-left: 160px;
+    margin-bottom: 12px;
+    color: rgba(35, 37, 54, 1);
 }
 .headerp{
-    color: #fff;
+    color: rgba(35, 37, 54, 1);
     opacity: 60%;
     line-height: 20px;
     font-weight: 300;
     font-size: 14px;
 }
 .headerh5{
-    color: #fff;
+    color: rgba(35, 37, 54, 1);
     line-height: 28px;
     font-weight: 400;
     font-size: 18px;
@@ -421,6 +442,7 @@ strong{
     margin-right: 40px;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 574px;
 }
 .h1{
     color: #232536;

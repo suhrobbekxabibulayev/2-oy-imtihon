@@ -52,17 +52,11 @@ body{
 .header-hr{
     width: 48px;
     height: 0px;
-    margin-left: 1120px;
+    margin-left: 1110px;
     gap: 0px;
     border: 3px 0px 0px 0px;
     opacity: 0px;
     border: 3px solid #FFA155;
-}
-.white{
-    width: 354px;
-    height: 243px;
-    background: rgba(255, 255, 255, 1);
-    margin-left: 238px;
 }
 .header-li{
     list-style: none;
@@ -193,7 +187,7 @@ p{
     width: 1278px;
     height: 416px;
     background-color:#fff;
-    margin-top: 96px;
+    margin-top: 200px;
 }
 .Bottom-h1{
     margin-top: 32px;
@@ -665,4 +659,73 @@ p{
     color: #232536;
     font-weight: 400;
     font-size: 14px;
+}
+.hh__white__div{
+    display: flex;
+    gap: 32px;
+    margin-left: 72px;
+}
+.white__div{
+    margin-top: 78px;
+}
+.white__div1{
+    margin-top: 32px;
+}
+.white__div2{
+    margin-top: 32px;
+}
+.div__3{
+    width: 1600px;
+    height: 884px;
+    margin-top: 96px;
+    background: rgba(250, 250, 252, 1);
+}
+.div__3__div__1__div__2{
+    margin-left: 160px;
+    margin-top: 96px;
+}
+.div__2__p{
+    top: 2110px;
+    margin-left: 161px;
+    gap: 0px;
+    opacity: 0.87px;   
+    color: rgba(0, 0, 0, 1);
+    //styleName: Caption;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 3px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+.div__2__h1{
+   margin-left: 159px;
+   color: rgba(35, 37, 54, 1);
+   //styleName: H3 Heading;
+   font-family: Poppins;
+   font-size: 36px;
+   font-weight: 600;
+   line-height: 54px;
+   text-align: left;
+   text-underline-position: from-font;
+   text-decoration-skip-ink: none;
+
+}
+.div__2__p__2{
+    margin-left: 159px;
+    color: rgba(35, 37, 54, 1);
+    //styleName: Paragraph;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+.div__2__img{
+    margin-left: 160px;
+    margin-top: 64px
 }
